@@ -1,0 +1,4 @@
+alias sb='source ~/.bashrc'
+alias gc='git commit -m'
+alias cdD='cd ~/Desktop'
+
