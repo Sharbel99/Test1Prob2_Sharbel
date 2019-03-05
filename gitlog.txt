@@ -1,0 +1,24 @@
+commit aa97fee5ca9fd8bbc599591e1e200a3321a19153 (HEAD -> master)
+Author: Sharbel <sharbel.nashar@std.balamand.edu.lb>
+Date:   Tue Mar 5 10:40:11 2019 +0200
+
+    added alias.txt
+
+commit c98f52f1ee35c98cb3df53d043203051f659a56d
+Author: Sharbel <sharbel.nashar@std.balamand.edu.lb>
+Date:   Tue Mar 5 10:31:59 2019 +0200
+
+    added last column
+
+commit fb999d133bec3d562dd056e8a5783dab91c914f1
+Author: Sharbel <sharbel.nashar@std.balamand.edu.lb>
+Date:   Tue Mar 5 10:29:22 2019 +0200
+
+    added first column data
+
+commit a22df67d8bd23af21d773207fd1c59d07a95e53a (origin/master)
+Author: Sharbel <sharbel.nashar@std.balamand.edu.lb>
+Date:   Tue Mar 5 10:08:05 2019 +0200
+
+    done II.2
+
